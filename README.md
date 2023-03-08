@@ -32,3 +32,6 @@ Geek University Data Science
 <a href="https://www.kaggle.com/competitions/real-estate-price-prediction-moscow/data">Источник данных</a>
 </p>
 <a href="https://github.com/YSamoy/Geekbrains_HW-Numpy-Matplotlib-Scikit-learn/blob/main/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F_Real_estate.ipynb">Предсказание цен на недвижимость</a>
+
+
+![pd plt sns](https://user-images.githubusercontent.com/102718506/223711759-13374e16-2405-4cf7-a504-fd5278a012b8.jpg)
